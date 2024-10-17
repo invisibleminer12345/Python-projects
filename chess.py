@@ -1,3 +1,4 @@
+# No functions included.
 move_bking = 0
 move_wking = 0
 move_k = False
